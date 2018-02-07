@@ -1,3 +1,7 @@
+<!-- Uses jquery -->
+
+
+
 var strict = "no";
 var power = "OFF";
 var i = 0;
