@@ -1,4 +1,4 @@
-<!-- Uses jquery -->
+// Uses jquery 
 
 
 
